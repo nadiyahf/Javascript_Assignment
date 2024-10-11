@@ -2,14 +2,18 @@ Javascript_Assignment
 This project is a weekly assignment of Sanbercode's QA automation training chapter course Javascript Introduction.
 
 Node Installation
-Download the installation here
-Check node installation $node  --version
-Check npm installation $npm --version
+
+1. Download the installation here
+2. Check node installation $node  --version
+3. Check npm installation $npm --version
+   
 Create The Project
-Open terminal, create a new folder $mkdir javascript_introduction
-Move to the folder using $cd javascript_introduction
-Run $npm init to create file package.json
-Run $npm installto set up the project
+
+1. Open terminal, create a new folder $mkdir javascript_introduction
+2. Move to the folder using $cd javascript_introduction
+3. Run $npm init to create file package.json
+4. Run $npm installto set up the project
+  
 Library Use
 In this project, we only use one library to get the input from user. Install the library by typing commands $npm install prompt-sync
 
