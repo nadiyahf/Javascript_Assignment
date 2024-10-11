@@ -1,4 +1,3 @@
-Javascript_Assignment
 This project is a weekly assignment of Sanbercode's QA automation training chapter course Javascript Introduction.
 
 Node Installation
